@@ -1,0 +1,1 @@
+start /d lib InstructionGenerator.exe
